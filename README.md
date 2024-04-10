@@ -54,7 +54,7 @@ For further information about this dataset please contact Hadi Fanaee-T (hadi.fa
 
 
 ## Contact
-Created by [@VenuMadhavKolloju] - feel free to contact me!
+Created by [@VenuMadhavKolloju](https://github.com/VenuMadhavKolloju) - feel free to contact me!
 
 
 <!-- Optional -->
